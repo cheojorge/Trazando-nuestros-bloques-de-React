@@ -1,0 +1,8 @@
+.subContents{
+    background-color: #ffd966;
+    width: 185px;
+    height: 210px;
+    display: inline-block;
+    margin-left: 10px;
+    border: 2px solid black;
+}

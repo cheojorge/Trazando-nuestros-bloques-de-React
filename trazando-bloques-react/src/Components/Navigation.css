@@ -1,0 +1,9 @@
+.navigation{
+    background-color: #6fa8dc;
+    height: 260px;
+    width: 160px;
+    border: 2px solid black;
+    display: inline-block;
+    margin-right: 15px;
+    vertical-align: top;
+}
